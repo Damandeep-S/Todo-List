@@ -1,0 +1,18 @@
+/* styles.css */
+
+/* Add styles for the header */
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+/* Add styles for the main content */
+main {
+    /* Add your styles here */
+}
